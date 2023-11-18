@@ -1,4 +1,6 @@
+import './App.css'
 import Calculator from "./components/calculator"
+
 
 
 
